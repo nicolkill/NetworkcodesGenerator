@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Network Codes Generator</string>
+
+    <string name="code_number">Cuantos codigos?</string>
+    <string name="generate">Generar codigos</string>
+    <string name="permissions_not_granted">La aplicacion necesita los permisos para trabajar</string>
+    <string name="close">Cerrar</string>
+</resources>
